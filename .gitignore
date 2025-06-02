@@ -19,10 +19,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Prisma
-prisma/migrations/
-/generated/prisma
-
 # VSCode
 .vscode/
 
